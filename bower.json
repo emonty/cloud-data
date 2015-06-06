@@ -1,0 +1,24 @@
+{
+  "name": "cloud-data",
+  "version": "1.0.0",
+  "description": "Information about OpenStack clouds",
+  "main": "defaults.json",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "openstack"
+  ],
+  "authors": [
+    "OpenStack"
+  ],
+  "license": "Apache",
+  "homepage": "http://www.openstack.org/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
